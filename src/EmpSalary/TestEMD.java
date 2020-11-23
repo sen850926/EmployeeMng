@@ -2,7 +2,6 @@ package EmpSalary;
 
 import java.util.Scanner;
 //測試
-//在一個測試
 public  class TestEMD{
 	static Scanner sc = new Scanner(System.in);
 	static Employee[] em = new Employee[100];
